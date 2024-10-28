@@ -8,7 +8,7 @@ public class TestSuite1 {
     @Test
     public void test1() {
 
-        System.out.println("test1 passed.");
+        System.out.println("test1 passed. Passed");
 
     }
 
